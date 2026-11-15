@@ -32,14 +32,14 @@ I'm a 3rd-year Computer Science student specializing in Artificial Intelligence 
 ### ⚡ GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sanjaysp1&show_icons=true&theme=radical&hide_border=true" alt="Sanjay's GitHub Stats" />
+  <img src="https://github-readme-stats-rust-rho-54.vercel.app/api?username=Sanjaysp1&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Sanjay's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjaysp1&theme=radical&hide_border=true" alt="Sanjay's GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjaysp1&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-rust-rho-54.vercel.app/api/top-langs/?username=Sanjaysp1&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 <br/>
